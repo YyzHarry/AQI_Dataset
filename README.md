@@ -1,11 +1,11 @@
-##################################################################################
+##########################################################################################
 
-            				 Fine-grained AQI Dataset	  				    
+            				Fine-grained AQI Dataset	  				    
 							 
-    State Key Laboratory of Advanced Optical Communication System and Networks 
+			State Key Laboratory of Advanced Optical Communication System and Networks 
  
-									Peking University         	                 
-##################################################################################
+								Peking University         	                 
+##########################################################################################
 
 
 Introduction
