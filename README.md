@@ -1,8 +1,8 @@
-##############################################################################
-#            				 Fine-grained AQI Dataset	  				     #
-# State Key Laboratory of Advanced Optical Communication System and Networks #
-#                				Peking University         	                 #
-##############################################################################
+#############################################################################
+            				 Fine-grained AQI Dataset	  				     
+ State Key Laboratory of Advanced Optical Communication System and Networks 
+                				Peking University         	                 
+#############################################################################
 
 
 Introduction
@@ -14,15 +14,14 @@ in typical 2D (i.e., a roadside park) and 3D (i.e., a vertical enclosed space in
 Annotations
 ===================================================
 The dataset contains TWO PARTS:
----------------------------------------------------
-1) Data for typical 2D scenario (in folder 'data_for_2d')
+
+### Data for typical 2D scenario (in folder 'data_for_2d')
 
 In 2D (a roadside park) scenario, the height is assumed as __z=0__. All .txt file contains 40 measuring locations.
 The first point's coordinate is (0,0), and the interval of each point (either in x-axis or y-axis) is 5m.
 The whole 2D space is hence (45m * 15m).
 
----------------------------------------------------
-2) Data for typical 3D scenario (in folder 'data_for_3d')
+### Data for typical 3D scenario (in folder 'data_for_3d')
 
 In 3D (a vertical enclosed space inside a tall building) scenario, all .txt file contains 45 measuring locations.
 Every col in these files represents a fixed height, increasing from 0m to 40m with an interval of 5m:
@@ -44,7 +43,6 @@ Row number from 1 to 5
 	4 - (10, 30)
 	5 - (0, 20)
 The whole 3D space is (40m * 40m * 40m).
----------------------------------------------------
 
 
 Raw Data
