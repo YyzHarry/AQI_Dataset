@@ -1,11 +1,11 @@
-#############################################################################
+##################################################################################
 
             				 Fine-grained AQI Dataset	  				    
 							 
- State Key Laboratory of Advanced Optical Communication System and Networks 
+    State Key Laboratory of Advanced Optical Communication System and Networks 
  
-                				Peking University         	                 
-#############################################################################
+									Peking University         	                 
+##################################################################################
 
 
 Introduction
@@ -33,15 +33,15 @@ In 3D (a vertical enclosed space inside a tall building) scenario, all .txt file
 Every col in these files represents a fixed height, increasing from 0m to 40m with an interval of 5m:
 
 __Col number from 1 to 9__
-1.z = 0
-2.z = 5
-3.z = 10
-4.z = 15
-5.z = 20	
-6.z = 25
-7.z = 30
-8.z = 35
-9.z = 40
+1. z = 0
+2. z = 5
+3. z = 10
+4. z = 15
+5. z = 20	
+6. z = 25
+7. z = 30
+8. z = 35
+9. z = 40
 
 Every row contains 5 points, their coordinates in 2-dimensional is (x, y):
 
